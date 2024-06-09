@@ -16,22 +16,22 @@ I am a passionate AI Engineer with a strong focus on Computer Vision and Deep Le
 ### 1. Human Image Segmentation with U-Net
 - **Description:** Developed a U-Net model for segmenting human images.
 - **Technologies:** Python, TensorFlow, OpenCV
-- **[Repository Link](#)**
+
 
 ### 2. Retina Blood Vessel Segmentation
 - **Description:** Implemented a U-Net model for segmenting blood vessels in retina images.
 - **Technologies:** Python, TensorFlow, OpenCV
-- **[Repository Link](#)**
+
 
 ### 3. Real-time Football Detection with YOLO
 - **Description:** Created a real-time football detection system using the YOLO model.
 - **Technologies:** Python, OpenCV, YOLO
-- **[Repository Link](#)**
+
 
 ### 4. Car Parking Space Detection
 - **Description:** Developed a system to detect free parking spaces using OpenCV.
 - **Technologies:** Python, OpenCV, Computer Vision
-- **[Repository Link](#)**
+
 
 ## 🎓 Certifications
 
