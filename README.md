@@ -1,8 +1,14 @@
 # Hi, I'm Hamid Gholami 👋
 
-I am a self-taught AI and computer vision engineer with a strong background in developing and deploying deep learning models. Passionate about applying AI to solve real-world problems and continuously learning new technologies. Here are some of the projects I've worked on.
+I'm an AI and Computer Vision Engineer with a passion for developing advanced machine learning models and image processing techniques. I have extensive experience in deep learning, object detection, and real-time video analysis.
 
-- 🔭 I’m currently working on: analyzing systems for real time (computer vision)
-- 🌱 I’m currently learning: Natural Language Processing (NLP)
-- 👯 I’m looking to collaborate on: Open-source AI projects
-- 📫 How to reach me: hamidgholami743@gmail.com
+## 🔧 Skills
+- **Programming Languages**: Python, C++
+- **Frameworks**: TensorFlow, PyTorch
+- **Libraries**: OpenCV, YOLO, Detectron2, Mask R-CNN
+- **Technologies**: Image Processing, Object Detection, Semantic Segmentation, Data Augmentation
+
+
+## 📫 Let's Connect
+- **Email**: hgholami733@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hamid-gholami-390305248)
