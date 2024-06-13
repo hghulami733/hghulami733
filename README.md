@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Hamid Gholami 👋
 
 I am a self-taught AI and computer vision engineer with a strong background in developing and deploying deep learning models. Passionate about applying AI to solve real-world problems and continuously learning new technologies. Here are some of the projects I've worked on.
 
