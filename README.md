@@ -11,4 +11,4 @@ I'm an AI and Computer Vision Engineer with a passion for developing advanced ma
 
 ## 📫 Let's Connect
 - **Email**: hgholami733@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hamid-gholami-390305248)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hamid-gholami-390305248)
