@@ -1,40 +1,23 @@
-🧠 Artificial Intelligence & Machine Learning
-Deep Learning: PyTorch, TensorFlow, Keras
+Hamid Gholami — Generative AI Architect & Systems Engineer
+Welcome to my GitHub. I’m Hamid, a visionary AI/ML architect specializing in Generative AI, Large Language Models (LLMs), and agentic systems. With 7+ years of experience in AI and Computer Vision—and 3+ years of deep specialization in LLMs—I build intelligent systems from the ground up, combining mathematical rigor, architectural design, and real-world deployment.
 
-Computer Vision: OpenCV, YOLO, Detectron2, Mask R-CNN, U-Net, Vision Transformers, UNETR, SAM(1, 2) and so on
+My work spans foundational model development, advanced retrieval pipelines, and multi-agent orchestration. I’ve built GPT-style models from scratch, engineered multimodal RAG systems, and designed autonomous agents with reasoning, tool-use governance, and human-in-loop safeguards.
 
-Natural Language Processing (NLP): Fine-Tuning LLMs, Hugging Face Transformers, GPT, BERT, Text Classification, Prompt Engineering, Reinforcement Learning from Human Feedback (RLHF)
+🔧 What I Build: 
+LLMs from Scratch: Custom GPT-2 and DeepSeek-style architectures using PyTorch, including BPE tokenizers, causal attention, MoE, and MLA.
 
-Generative AI: GANs, VAEs, Diffusion Models, Vision-Language Models
+Fine-Tuning & RLHF: Instruction-tuned models for grammar correction, translation, symbolic math reasoning, and domain adaptation using PPO and reward modeling.
 
-Reinforcement Learning: PPO, A2C, DQN, RL for Computer Vision & NLP
+Advanced RAG Systems: 50+ custom pipelines with hybrid chunking, reranking, knowledge graph integration, and multimodal summarization—optimized for low-latency deployment.
 
-📡 Hardware, Embedded Systems & Robotics
-Microcontrollers & Edge AI: Arduino, ESP32, STM32, Jetson Nano, Raspberry Pi, Coral TPU
+Agentic AI Frameworks: LangGraph-based multi-agent systems for healthcare, e-commerce, and scheduling, featuring ReAct agents, SQL agents, and self-RAG loops.
 
-IoT & Automation: Loxone Integration, Smart Home Systems, Industrial Automation
+LLMOps & Deployment: Scalable, production-grade systems using Docker, FastAPI, Kubernetes, and cloud platforms (AWS/GCP/Azure).
 
-Electronics & PCB Design: Digital & Analog Circuits, PCB Prototyping, Soldering, Circuit Design & Optimization, Power electronic
+My Philosophy:
+I believe in building intelligent systems from first principles—grounded in mathematics, physics, and architectural clarity. My goal is to evolve from assembler to original system designer, shaping the future of AI through reasoning-capable agents, multimodal cognition, and autonomous orchestration.
 
-Robotics & Mechanical Systems: ROS (Robot Operating System), Actuator & Sensor Integration, CAD Modeling
-
-🖥️ Software Development & DevOps
-Programming Languages: Python, C++
-
-Development Tools: VS Code, Git, Docker, Jupyter Notebook
-
-MLOps & Model Deployment: Weights & Biases, MLflow, TensorBoard, ONNX, TensorRT
-
-APIs & Web Technologies: FastAPI, Flask, REST APIs
-
-⚙️ Mathematics, Physics & Engineering
-Advanced Mathematics: Linear Algebra, Calculus (I, II, III), Differential Equations, Probability & Statistics, Optimization
-
-Advanced Physics: Mechanics, Electromagnetism, Quantum Basics, Control Systems
-
-Mechanical Engineering: Structural Analysis, Thermodynamics, CAD/3D Modeling
-
-
+I’m currently pursuing advanced studies in Generative AI Architecture, Mathematics, and Physics—focused on building smart system based on LLMs and Computer vision.
 ## 📫 Let's Connect
-- **Email**: hgholami733@gmail.com
+- **Email**: hamidgholami734@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hamid-gholami-390305248)
